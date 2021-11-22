@@ -1,0 +1,30 @@
+.cover {
+    background-color: lightgray;
+    text-align: center;
+    border: solid;
+    border-width: 1 1px;
+    height: 90%;
+    width: 95%;
+    border-bottom-left-radius: 2%;
+}
+
+.book {
+    background-color: wheat;
+    text-align: center;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-width: 3px;
+    height: 550px;
+    width: 100%;
+    border-bottom-left-radius: 17%;
+    border-top-right-radius: 5%;
+
+}
+
+.title {
+    padding: 10%;
+}
+
+.author {
+    padding: 10% 15% 15% 20%;
+}
